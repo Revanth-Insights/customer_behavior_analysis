@@ -36,9 +36,9 @@ This project demonstrates an end-to-end data analytics workflow, covering data l
 
 ### 2. Exploratory Data Analysis (EDA)
 
-* Analyzed distributions, trends, and relationships
-* Identified missing values and outliers
-* Created visualizations for better understanding
+* Conducted initial data exploration using Pandas (.info(), .describe())
+* Reviewed data types and summary statistics
+* Identified missing values and basic data inconsistencies
 
 ### 3. Data Cleaning
 
