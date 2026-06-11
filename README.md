@@ -10,16 +10,16 @@ This project demonstrates an end-to-end data analytics workflow, covering data l
 
 ## Dataset
 
-* Source: [Add dataset source here]
-* Format: CSV / Excel / Database
-* Description: The dataset contains [brief description of features, e.g., sales data, customer information, transactions, etc.]
+* Source: Public dataset (used for educational purpose)
+* Format: CSV
+* Description: This dataset includes customer behavior and transactional data, such as customer demographics, purchase history, and engagement metrics. It is used to perform exploratory data analysis, build SQL queries, and create visual insights through dashboards.
 
 ---
 
 ## Tools & Technologies
 
 * **Python** – Data loading, cleaning, and exploratory data analysis (EDA)
-* **Pandas, NumPy, Matplotlib, Seaborn** – Data manipulation and visualization
+* **Pandas, NumPy** – Data manipulation and visualization
 * **PostgreSQL** – Data storage and SQL-based analysis
 * **Power BI** – Dashboard creation and data visualization
 * **Gamma** – Presentation (PPT) creation
@@ -139,6 +139,6 @@ The Power BI dashboard provides:
 
 ## Author
 
-[Your Name]
-[LinkedIn Profile]
-[GitHub Profile]
+[Revanth Prasad]
+[https://www.linkedin.com/in/revanth-prasad-34331a27a/]
+[https://github.com/Revanth-Insights]
