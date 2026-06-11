@@ -1,4 +1,4 @@
-# customer_behavior_analysis
+# Customer_behavior_analysis
 Data analytics project showcasing customer behavior analysis using python, sql and power bi.
 # Data Analytics Project
 
@@ -104,8 +104,8 @@ The Power BI dashboard provides:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Revanth-Insights/customer_behavior_analysis.git
+   cd customer_behavior_analysis
    ```
 
 2. **Install dependencies**
